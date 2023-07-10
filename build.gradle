@@ -3,7 +3,7 @@ plugins {
     id "com.javiersc.semver" version "0.5.0-rc.1"
 }
 semver {
-    tagPrefix.set("my-libs")
+    tagPrefix.set("milti-tag")
 }
 group 'org.example'
 version '1.0-SNAPSHOT'
