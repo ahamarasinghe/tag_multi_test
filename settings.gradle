@@ -1,0 +1,11 @@
+buildscript {
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+}
+rootProject.name = 'milti-tag'
+include 'lib-a'
+include 'lib-b'
+

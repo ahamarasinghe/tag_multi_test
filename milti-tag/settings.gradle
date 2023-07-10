@@ -1,4 +1,0 @@
-rootProject.name = 'milti-tag'
-include 'lib-a'
-include 'lib-b'
-
